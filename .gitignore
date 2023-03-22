@@ -1,0 +1,35 @@
+**/user
+yay/
+zoom*
+dleyna-renderer-service.conf
+**/runtime
+protonmail/
+systemd/
+**/themes
+**/rust-analyzer
+**/tutor
+gtk*/
+**/history*
+pulse/
+evolution/sources/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+BraveSoftware/
+Ledger Live/
+discord/
+ghc/
+**/cache
+**/database
+nautilus/
+xfce4/
+monitors*
+mime*
+dleyna*
+cef_user_data/
+dconf/
+.gsd-keyboard*
